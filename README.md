@@ -73,6 +73,6 @@ Also, there are a number of variants that I didn't list:
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
 
 
-Additions, corrections, and other feedback welcome and can be submitted via [e-mail](mailto://cointastical@gmail.com).
+Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/P2P-Trading-Exchanges), or via [e-mail](mailto://cointastical@gmail.com).
 
 [Note: There is also a [corresponding post on Medium](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) with this information as well.]
