@@ -42,6 +42,7 @@ Any that I am missing?
 **Altcoin-only P2P Trading exchanges**
 
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
+- [CryptoLocally](https://cryptolocally.com) (💵) [**NO KYC**]
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://app.dether.io) (💵) [**NO KYC**]
 - [Local BCash](https://local.bitcoin.com) (💵) [**NO KYC**]
