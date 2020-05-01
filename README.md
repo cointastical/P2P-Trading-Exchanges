@@ -19,7 +19,6 @@ Any that I am missing?
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)] 
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
-- CryptoMap.me (💵) [**NO KYC**] <-- This subreddit does not permit any link to CryptoMap
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC]  <-- No more in-person, cash trading
 - Paxful.com (💵) [KYC]  <-- Reddit does not permit any link to Paxful 
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
