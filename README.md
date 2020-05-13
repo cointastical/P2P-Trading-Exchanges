@@ -11,7 +11,6 @@ Any that I am missing?
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
-- [Payfair](https://payfair.io) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
