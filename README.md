@@ -10,7 +10,6 @@ Any that I am missing?
 - [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- Non custodial 
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
-- [Counter.Network](https://counter.network) (💵) [**OPTIONAL KYC**]
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [Payfair](https://payfair.io) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
