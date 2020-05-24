@@ -13,6 +13,7 @@ Any that I am missing?
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
+- [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)] 
@@ -26,7 +27,6 @@ Any that I am missing?
 - [CoinCola](https://www.coincola.com/buy-bitcoin)
 - [WazirX](https://wazirx.com/p2p) [KYC]
 - [Giottus](https://www.giottus.com/p2p) [KYC]
-- [Bitzlato](https://bitzlato.com/p2p)
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
 - [SwapN>Go](https://www.swapngo.org)
 - [r/Cash4Cash](https://reddit.com/r/Cash4Cash)  <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
