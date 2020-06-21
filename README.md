@@ -26,6 +26,7 @@ Any that I am missing?
 - [CGem/CryptoGem](https://cryptogem.global)
 - [CoinCola](https://www.coincola.com/buy-bitcoin)
 - [WazirX](https://wazirx.com/p2p) [KYC]
+- [Shiftal](https://www.shiftal.com) [KYC]
 - [Giottus](https://www.giottus.com/p2p) [KYC]
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
 - [SwapN>Go](https://www.swapngo.org)
