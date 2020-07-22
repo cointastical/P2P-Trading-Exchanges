@@ -38,6 +38,7 @@ Any that I am missing?
 
 **Altcoin-only P2P Trading exchanges**
 
+- [AtomicDEX](https://atomicdex.io/) [**NO KYC**]  <-- Fully decentralized and non custodial Atomic Swaps with a p2p orderbook. Supports BTC, ETH, ERC20 tokens and most of the coins that are BTC source forks. Some popular coins supported are LTC, QTUM, KMD, RVN, ZEC, DASH, DOGE, DGB etc., for a list of all supported coins, see [coins list](https://github.com/KomodoPlatform/coins/blob/master/coins) . Links for iOS and Android apps are available at [the Official website](https://atomicdex.io/) , Desktop GUI releases are available [here](https://github.com/KomodoPlatform/atomicDEX-Pro/releases) , CLI releases are available [here](https://github.com/KomodoPlatform/atomicDEX-API/releases) and documentation for CLI is available [here](https://developers.atomicdex.io/) 
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [CryptoLocally](https://cryptolocally.com) (💵) [**NO KYC**]
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
