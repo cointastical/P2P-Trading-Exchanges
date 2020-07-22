@@ -16,7 +16,7 @@ Any that I am missing?
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
-- [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)] 
+- [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC]  <-- No more in-person, cash trading
 - [Paxful.com](https://Paxful.com) (💵) [KYC]
@@ -34,7 +34,7 @@ Any that I am missing?
 - [r/GiftCardExchange](https://reddit.com/r/GiftCardExchange) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
-- [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non custodial 
+- [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non custodial
 
 **Altcoin-only P2P Trading exchanges**
 
