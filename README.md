@@ -19,7 +19,7 @@ Any that I am missing?
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)] 
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC]  <-- No more in-person, cash trading
-- Paxful.com (💵) [KYC]  <-- Reddit does not permit any link to Paxful 
+- [Paxful.com](https://Paxful.com) (💵) [KYC]
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
 - [Vertex](https://vertex.market)
