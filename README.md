@@ -33,6 +33,7 @@ Any that I am missing?
 - [SwapN>Go](https://www.swapngo.org)
 - [r/Cash4Cash](https://reddit.com/r/Cash4Cash) <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
 - [r/GiftCardExchange](https://reddit.com/r/GiftCardExchange) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
+- [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
 - [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non custodial
