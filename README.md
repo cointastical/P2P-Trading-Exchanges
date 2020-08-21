@@ -45,7 +45,6 @@ Any that I am missing?
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://app.dether.io) (💵) [**NO KYC**]
 - [Local BCash](https://local.bitcoin.com) (💵) [**NO KYC**]
-- [Ramp Instant](https://instant.ramp.network) [**NO KYC**] <-- For Revolut, or in U.K., works with most banks
 - [Ethfinex Trustless OTC](https://trustless.ethfinex.com/otc)
 - [Hubi](https://otc.Hubi.com)
 - [KuCoin OTC](https://www.kucoin.com/otc)
