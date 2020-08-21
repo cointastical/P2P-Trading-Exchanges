@@ -5,8 +5,8 @@ Following is a list of P2P exchanges for trading Bitcoin.  Common payment method
 
 Any that I am missing?
 
-- [Bisq](https://bisq.network) (💵) client [**NO KYC**]  <-- Fully decentralized and non custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
-- [HodlHodl](https://HodlHodl.com) [**NO KYC**]  <-- Non custodial. Not available in the U.S.
+- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
+- [HodlHodl](https://HodlHodl.com) [**NO KYC**] <-- Non custodial. Not available in the U.S.
 - [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- For ETH, and ERC-20, LCS is Non custodial. BTC is custodial yet
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
@@ -18,7 +18,7 @@ Any that I am missing?
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
-- [LocalBitcoins](https://LocalBitcoins.com) [KYC]  <-- No more in-person, cash trading
+- [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Paxful.com](https://Paxful.com) (💵) [KYC]
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
@@ -30,7 +30,7 @@ Any that I am missing?
 - [Giottus](https://www.giottus.com/p2p) [KYC]
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
 - [SwapN>Go](https://www.swapngo.org)
-- [r/Cash4Cash](https://reddit.com/r/Cash4Cash)  <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
+- [r/Cash4Cash](https://reddit.com/r/Cash4Cash) <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
 - [r/GiftCardExchange](https://reddit.com/r/GiftCardExchange) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
@@ -64,7 +64,7 @@ Also, there are a number of variants that I didn't list:
 - Precious metals brokers which buy your gold and/or silver in exchange for bitcoin (e.g., [Veldt Gold](https://veldtgold.com/sell-gold-for-bitcoin) [**NO-KYC**]).
 - [Instant exchanges](https://np.reddit.com/r/Bitcoin/comments/cd1fr8) (i.e., for converting from one digial currency to another)
 - Gift card exchanges (e.g., [CardCoins](https://www.cardcoins.co/) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, [CardXCoin](https://cardxcoin.com), and [BitOf](https://bitof.io/) for paying with Amazon UK gift cards)
-- Vouchers (retail) (e.g., [Azte.co](https://azte.co/vendors.html) (💵), [FastBitcoins](https://fastbitcoins.com/#locations) (💵), [LibertyX](https://libertyx.com) (💵), [Rise Wallet](https://www.risewallet.com/locations) (💵), [FlexEPin](https://www.flexepin.com/sales_outlet_finder) (💵), [Neosurf](https://www.neosurf.com/en_GB/application/findcard) (💵), [Yellow Card](https://www.yellowcard.io/locations) (💵), [Tikebit](https://tikebit.com/map#marker=null&panel=false&lat=40.19146303804063&lng=-4.696655273437501&zoom=7) (💵), [BitIns](https://www.bitins.net/#map-module) (💵), and [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en)  (💵))
+- Vouchers (retail) (e.g., [Azte.co](https://azte.co/vendors.html) (💵), [FastBitcoins](https://fastbitcoins.com/#locations) (💵), [LibertyX](https://libertyx.com) (💵), [Rise Wallet](https://www.risewallet.com/locations) (💵), [FlexEPin](https://www.flexepin.com/sales_outlet_finder) (💵), [Neosurf](https://www.neosurf.com/en_GB/application/findcard) (💵), [Yellow Card](https://www.yellowcard.io/locations) (💵), [Tikebit](https://tikebit.com/map#marker=null&panel=false&lat=40.19146303804063&lng=-4.696655273437501&zoom=7) (💵), [BitIns](https://www.bitins.net/#map-module) (💵), and [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en) (💵))
 - Vending (e.g., [Bitcoin ATMs](https://CoinATMRadar.com) (💵), [Coinstar](https://www.coinstar.com/bitcoin) (💵) (with [2,100+ locations in the U.S.](https://coinme.com/kiosks)) and [SBB/Swiss Railway ticketing](https://www.sbb.ch/en/station-services/services/further-services/ticket-machine-services/bitcoin.html))
 - Bill/Invoice swap services (e.g., [Lamium](https://Lamium.io), and [PiixPay](https://piixpay.com))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
