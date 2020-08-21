@@ -6,7 +6,7 @@ Following is a list of P2P exchanges for trading Bitcoin.  Common payment method
 Any that I am missing?
 
 - [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
-- [HodlHodl](https://HodlHodl.com) [**NO KYC**] <-- Non custodial. Not available in the U.S.
+- [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non custodial. Not available in the U.S.
 - [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- For ETH, and ERC-20, LCS is Non custodial. BTC is custodial yet
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
