@@ -11,6 +11,7 @@ Any that I am missing?
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
+- [Bitcoin Global](https://bitcoin.global) (💵) [**NO KYC**] <-- has USDT (on multiple networks - ERC20, TRC20). Zero trading fee. Not available in the N.Y. state.
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
