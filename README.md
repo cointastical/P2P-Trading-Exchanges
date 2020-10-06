@@ -5,10 +5,10 @@ Following is a list of P2P exchanges for trading Bitcoin.  Common payment method
 
 Any that I am missing?
 
-- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
-- [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non custodial. Not available in the U.S.
-- [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- Non custodial
-- [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non custodial
+- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
+- [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S.
+- [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- Non-custodial
+- [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
@@ -36,7 +36,7 @@ Any that I am missing?
 - [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
-- [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non custodial
+- [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non-custodial
 
 **Altcoin-only P2P Trading exchanges**
 
