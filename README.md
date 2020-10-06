@@ -14,6 +14,7 @@ Any that I am missing?
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
+- [Bitcoin.Global](https://Bitcoin.Global) [**NO KYC**]
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
