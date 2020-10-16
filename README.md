@@ -9,7 +9,7 @@ Any that I am missing?
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S.
 - [LocalCoinSwap](https://localcoinswap.com) (💵) [**NO KYC**] <-- Non-custodial
 - [LocalCryptos](https://LocalCryptos.com) (💵) [**NO KYC**] <-- Non-custodial
-- [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
+- [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor. No bech32 address support.
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
