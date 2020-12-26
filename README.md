@@ -24,6 +24,7 @@ Any that I am missing?
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
+- [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
 - [Vertex](https://vertex.market)
 - [CGem/CryptoGem](https://cryptogem.global)
