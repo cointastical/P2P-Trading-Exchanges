@@ -33,6 +33,7 @@ Any that I am missing?
 - [Giottus](https://www.giottus.com/p2p) [KYC]
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
 - [BitBargain.co.uk](https://BitBargain.co.uk) <-- U.K.
+- [VEX - Venezuela Exchange](https://vex.sunacrip.gob.ve) <-- Venezuela
 - [P2P Trading](https://p2ptrading.com.br) <-- Brazil
 - [SwapN>Go](https://www.swapngo.org)
 - [r/Cash4Cash](https://reddit.com/r/Cash4Cash) <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
