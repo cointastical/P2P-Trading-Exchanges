@@ -22,7 +22,7 @@ Any that I am missing?
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required]
 - [Paxful.com](https://Paxful.com) (💵) [KYC]
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
-- [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) [KYC]
+- [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
 - [Vertex](https://vertex.market)
