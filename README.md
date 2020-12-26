@@ -19,6 +19,7 @@ Any that I am missing?
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
+- [CryptoLocally](https://cryptolocally.com) (💵) [**NO KYC**]
 - [Paxful.com](https://Paxful.com) (💵) [KYC]
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) [KYC]
@@ -43,7 +44,6 @@ Any that I am missing?
 **Altcoin-only P2P Trading exchanges**
 
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
-- [CryptoLocally](https://cryptolocally.com) (💵) [**NO KYC**]
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://app.dether.io) (💵) [**NO KYC**]
 - [Local BCash](https://local.bitcoin.com) (💵) [**NO KYC**]
