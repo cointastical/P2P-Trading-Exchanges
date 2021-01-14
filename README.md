@@ -10,7 +10,7 @@ Any that I am missing?
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
-- [Bitcoin.Global](https://Bitcoin.Global) [**NO KYC**]
+- [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**] <-- Greece
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
