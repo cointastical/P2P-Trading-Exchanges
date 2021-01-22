@@ -12,7 +12,6 @@ Any that I am missing?
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
-- [BuyCrypto.Today](https://buycrypto.today) [**NO KYC**] <-- Greece
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
