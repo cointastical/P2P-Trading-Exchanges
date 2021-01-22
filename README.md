@@ -47,7 +47,7 @@ Any that I am missing?
 
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
-- [Dether](https://app.dether.io) (💵) [**NO KYC**]
+- [Dether](https://get.dether.io) (💵) [**NO KYC**]
 - [Local BCash](https://local.bitcoin.com) (💵) [**NO KYC**]
 - [Ethfinex Trustless OTC](https://trustless.ethfinex.com/otc)
 - [Hubi](https://otc.Hubi.com)
