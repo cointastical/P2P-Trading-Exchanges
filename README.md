@@ -42,7 +42,6 @@ Any that I am missing?
 - [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
-- [OpenBazaar](https://openbazaar.com/discover/results/?type=cryptocurrency) (💵) [**NO KYC**] <-- Non-custodial
 
 **Altcoin-only P2P Trading exchanges**
 
