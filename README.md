@@ -37,6 +37,7 @@ Any that I am missing?
 - [VEX - Venezuela Exchange](https://vex.sunacrip.gob.ve) <-- Venezuela
 - [P2P Trading](https://p2ptrading.com.br) <-- Brazil
 - [SwapN>Go](https://www.swapngo.org)
+- [Kyshi](https://www.kyshi.co) <-- Coming soon
 - [r/Cash4Cash](https://reddit.com/r/Cash4Cash) <-- Take seriously the risks and recommendations in the [General Information](https://reddit.com/r/Cash4Cash/comments/6zz7r7) PSA
 - [r/GiftCardExchange](https://reddit.com/r/GiftCardExchange) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
