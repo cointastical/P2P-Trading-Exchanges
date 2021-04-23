@@ -14,6 +14,7 @@ Any that I am missing?
 - [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
+- `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [NO KYC] ← Guide
 - [AS.Exchange Spot Market](https://as.exchange/platform/spot/buy) [**NO KYC**] <-- [Announcement](https://www.newsbtc.com/press-releases/as-exchange-launches-peer-to-peer-trading-of-spot-bitcoin-with-zero-trading-and-network-fees)
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
