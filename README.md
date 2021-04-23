@@ -48,7 +48,7 @@ Any that I am missing?
 
 **Altcoin-only P2P Trading exchanges**
 
-- [Haveno](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [NO KYC]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
+- [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [NO KYC]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://get.dether.io) (💵) [**NO KYC**]
