@@ -11,7 +11,7 @@ Any that I am missing?
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
-- [Wall Of Coins](https://wallofcoins.com) (💵) [**NO KYC**]
+- [Wall Of Coins](https://wallofcoins.com) [⚡](https://lightningnetworkstores.com/wallets)(💵) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [NO KYC] ← Guide
@@ -21,7 +21,7 @@ Any that I am missing?
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required]
-- [Paxful.com](https://Paxful.com) (💵) [KYC]
+- [Paxful.com](https://Paxful.com) (💵) [KYC] ([⚡](https://lightningnetworkstores.com/wallets) coming soon)
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Coindirect Marketplace](https://coindirect.com/marketplace)
@@ -73,7 +73,7 @@ Also, there are a number of variants that I didn't list:
 - [Instant exchanges](https://np.reddit.com/r/Bitcoin/comments/cd1fr8) (i.e., for converting from one digital currency to another)
 - Precious metals brokers which buy your gold and/or silver in exchange for bitcoin (e.g., [Veldt Gold](https://veldtgold.com/sell-gold-for-bitcoin) [**NO-KYC**]).
 - Gift card exchanges (e.g., [CardCoins](https://www.cardcoins.co/) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, [CardXCoin](https://cardxcoin.com), and [BitOf](https://bitof.io/) for paying with Amazon UK gift cards)
-- Vouchers (retail) (e.g., [Azte.co](https://azte.co/vendors.html) (💵), [FastBitcoins](https://fastbitcoins.com/#locations) (💵), [LibertyX](https://libertyx.com) (💵), [Rise Wallet](https://www.risewallet.com/locations) (💵), [FlexEPin](https://www.flexepin.com/sales_outlet_finder) (💵), [Neosurf](https://www.neosurf.com/en_GB/application/findcard) (💵), [Yellow Card](https://www.yellowcard.io/locations) (💵), [Tikebit](https://tikebit.com/map#marker=null&panel=false&lat=40.19146303804063&lng=-4.696655273437501&zoom=7) (💵), [BitIns](https://www.bitins.net/#map-module) (💵), and [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en) (💵))
+- Vouchers (retail) (e.g., [Azte.co](https://azte.co/vendors.html) ([⚡](https://lightningnetworkstores.com/wallets), 💵), [FastBitcoins](https://fastbitcoins.com/#locations) ([⚡](https://lightningnetworkstores.com/wallets), 💵), [LibertyX](https://libertyx.com) (💵), [Rise Wallet](https://www.risewallet.com/locations) (💵), [FlexEPin](https://www.flexepin.com/sales_outlet_finder) (💵), [Neosurf](https://www.neosurf.com/en_GB/application/findcard) (💵), [Yellow Card](https://www.yellowcard.io/locations) (💵), [Tikebit](https://tikebit.com/map#marker=null&panel=false&lat=40.19146303804063&lng=-4.696655273437501&zoom=7) (💵), [BitIns](https://www.bitins.net/#map-module) (💵), and [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en) (💵))
 - Vending (e.g., [Bitcoin ATMs](https://CoinATMRadar.com) (💵), [Coinstar](https://www.coinstar.com/bitcoin) (💵) (with [2,100+ locations in the U.S.](https://coinme.com/locations)) and [SBB/Swiss Railway ticketing](https://www.sbb.ch/en/station-services/services/further-services/ticket-machine-services/bitcoin.html))
 - Bill/Invoice swap services (e.g., [Lamium](https://Lamium.io), and [PiixPay](https://piixpay.com))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
