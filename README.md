@@ -68,7 +68,7 @@ This list does not include exchanges not in English (e.g., [58Coin](https://c2c.
 
 Also, there are a number of variants that I didn't list:
 
-- [Physical Stores where you can Buy or Sell bitcoin](https://np.reddit.com/r/Bitcoin/comments/dabf2m)
+- [Physical Stores where you can Buy or Sell bitcoin](https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625)
 - Online stores (e.g., [Bitsell X](https://bitsellx.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO-KYC**, requires browser extension], [CoinCorner](https://coincorner.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO-KYC** when £900 or less, not available in U.S.], [CEX.io](https://CEX.io.com), [Coinify](https://www.coinify.com), [Jubiter](https://app.jubiter.com/neworder/buy), [Bittylicious](https://bittylicious.com), [BitIreland](https://bitireland.ie), [Kuna.io Money](https://money.kuna.io), [LiteBit.eu](https://www.litebit.eu/en/buy), [Switchere](https://switchere.com), [Conio.com](https://conio.com) App, [CryptoVoucher.io](https://cryptovoucher.io), [BitQuick QuickBuy](https://www.bitquick.co/quick-buy) [**NO KYC** (when trx amount is under $400)], [Cash App](https://cash.app/bitcoin) and CoinMama)
 - [Instant exchanges](https://np.reddit.com/r/Bitcoin/comments/cd1fr8) (i.e., for converting from one digital currency to another)
 - Precious metals brokers which buy your gold and/or silver in exchange for bitcoin (e.g., [Veldt Gold](https://veldtgold.com/sell-gold-for-bitcoin) [**NO-KYC**]).
