@@ -46,6 +46,7 @@ Any that I am missing?
 - [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
+- [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid network, between L-BTC and stablecoins (i.e., either USDT, or EurX)
 
 **Altcoin-only P2P Trading exchanges**
 
