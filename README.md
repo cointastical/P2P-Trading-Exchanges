@@ -5,7 +5,7 @@ Following is a list of P2P trading exchanges (also referred to as P2P platforms)
 
 Any that I am missing?
 
-- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-hot-to-buy-and-sell-bitcoin-guide)
+- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S.
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
