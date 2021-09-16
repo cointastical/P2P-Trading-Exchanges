@@ -11,7 +11,7 @@ Any that I am missing?
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
-- [Wall Of Coins](https://wallofcoins.com) ([⚡](https://lightningnetworkstores.com/wallets)) (💵) [**NO KYC**]
+- [Wall Of Coins](https://wallofcoins.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [NO KYC] ← Guide
@@ -21,7 +21,7 @@ Any that I am missing?
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required]
-- [Paxful.com](https://Paxful.com) ([⚡](https://lightningnetworkstores.com/wallets)) (💵) [KYC] 
+- [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC] 
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Coindirect Marketplace](https://coindirect.com/marketplace)
