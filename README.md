@@ -24,7 +24,7 @@ Any that I am missing?
 - [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC] 
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
-- [Coindirect Marketplace](https://coindirect.com/marketplace)
+- [Coindirect Marketplace](https://coindirect.com/marketplace)  <-- [List of countries permitted](https://help.coindirect.com/hc/en-us/articles/115002614893-From-which-countries-do-you-accept-registrations-)
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
 - [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
