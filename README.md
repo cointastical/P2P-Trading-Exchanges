@@ -51,12 +51,10 @@ Any that I am missing?
 **Altcoin-only P2P Trading exchanges** (Includes where Bitcoin may be the payment method, but it is not the trading currency)
 
 Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
-
 - [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [NO KYC]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://get.dether.io) (💵) [**NO KYC**]
-- [Local BCash](https://local.bitcoin.com) (💵) [**NO KYC**]
 - [Ethfinex Trustless OTC](https://trustless.ethfinex.com/otc)
 - [Hubi](https://otc.Hubi.com)
 - [KuCoin OTC](https://www.kucoin.com/otc)
