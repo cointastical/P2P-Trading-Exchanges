@@ -48,7 +48,9 @@ Any that I am missing?
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
 - [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid network, between L-BTC and stablecoins (i.e., either USDT, or EurX)
 
-**Altcoin-only P2P Trading exchanges**
+**Altcoin-only P2P Trading exchanges** (Includes where Bitcoin may be the payment method, but it is not the trading currency)
+
+Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
 
 - [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [NO KYC]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
