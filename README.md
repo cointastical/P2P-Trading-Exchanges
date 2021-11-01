@@ -35,6 +35,7 @@ Any that I am missing?
 - [Shiftal](https://www.shiftal.com) [KYC]
 - [Giottus](https://www.giottus.com/p2p) [KYC]
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
+- [ScaleX](https://scalex.africa) [KYC] <-- Nigeria
 - [Busha](https://busha.co) [KYC] <-- Nigeria
 - [BitBargain.co.uk](https://BitBargain.co.uk) <-- U.K.
 - [VEX - Venezuela Exchange](https://vex.sunacrip.gob.ve) <-- Venezuela
