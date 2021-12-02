@@ -5,8 +5,8 @@ Following is a list of P2P trading exchanges (also referred to as P2P platforms)
 
 Any that I am missing?
 
-- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
-- [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S.
+- [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. L-BTC / Blockstream's [Liquid Network](https://blockstream.com/liquid/) ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
+- [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S. L-BTC / Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method.
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
@@ -47,7 +47,7 @@ Any that I am missing?
 - [r/GCTrading](https://reddit.com/r/GCTrading) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
-- [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid network, between L-BTC and stablecoins (i.e., either USDT, or EurX)
+- [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)), between L-BTC and stablecoins (i.e., either USDT, or EurX)
 
 **Altcoin-only P2P Trading exchanges** (Includes where Bitcoin may be the payment method, but it is not the trading currency)
 
