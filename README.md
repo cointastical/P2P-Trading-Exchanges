@@ -65,6 +65,7 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 
 **Aggregator/Search and Helper Sites**
 
+- Yadio [BTC Market](https://yadio.io/market.html) Filtered search across a half dozen P2P Platforms
 - [Monetory](https://monetory.io) Search P2P offers for the best rates
 - [ExchangeRates.Pro](https://Exchttps://www.redeeem.com/gift-cardshangeRates.pro) Real-time price comparison
 
