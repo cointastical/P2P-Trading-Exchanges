@@ -14,7 +14,7 @@ Any that I am missing?
 - [Wall Of Coins](https://wallofcoins.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Bitzlato](https://bitzlato.com/p2p) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
-- `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [NO KYC] ← Guide
+- `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] ← Guide
 - [AS.Exchange Spot Market](https://as.exchange/platform/spot/buy) [**NO KYC**] <-- [Announcement](https://www.newsbtc.com/press-releases/as-exchange-launches-peer-to-peer-trading-of-spot-bitcoin-with-zero-trading-and-network-fees)
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
@@ -53,7 +53,7 @@ Any that I am missing?
 
 Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
 
-- [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [NO KYC]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
+- [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [**NO KYC**]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Timbuktu](https://timbuktu.exchange) [**NO KYC** (for offer taker)]
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
