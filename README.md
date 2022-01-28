@@ -26,6 +26,7 @@ Any that I am missing?
 - [Coindirect Marketplace](https://coindirect.com/marketplace)  <-- [List of countries permitted](https://help.coindirect.com/hc/en-us/articles/115002614893-From-which-countries-do-you-accept-registrations-)
 - [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
 - [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
+- [PexPay](https://www.pexpay.com) <-- Active CNY trading
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
 - [Vertex](https://vertex.market)
 - [CGem/CryptoGem](https://cryptogem.global)
