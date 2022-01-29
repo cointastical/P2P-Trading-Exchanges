@@ -55,6 +55,7 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 
 - [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [**NO KYC**]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
 - [LocalMonero](https://localmonero.co/buy_monero) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
+- [ByBit P2P](https://www.bybit.com/fiat/trade/otc) <-- USDT only, initially. Not available in the U.S.
 - [Timbuktu](https://timbuktu.exchange) [**NO KYC** (for offer taker)]
 - [DAIHard](http://daihard.exchange) (💵) [**NO KYC**]
 - [Dether](https://get.dether.io) (💵) [**NO KYC**]
