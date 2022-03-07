@@ -6,7 +6,7 @@ Following is a list of P2P trading exchanges (also referred to as P2P platforms)
 Any that I am missing?
 
 - [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. L-BTC / Blockstream's [Liquid Network](https://blockstream.com/liquid/) ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
-- [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/2565c59028fc796a5f520edd79bb7982348cd0be/docs/how-to-use.md)
+- [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/2565c59028fc796a5f520edd79bb7982348cd0be/docs/how-to-use.md) [Note: Trade chat is not saved. To protect yourself as buyer, use additional method to verify payment instructions before sending fiat payment.]
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S. L-BTC / Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method.
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [LocalCryptos](https://LocalCryptos.com/Bitcoin) (💵) [**NO KYC**] <-- Non-custodial
