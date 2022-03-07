@@ -21,7 +21,7 @@ Any that I am missing?
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required]
-- [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC] 
+- [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC]
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Coindirect Marketplace](https://coindirect.com/marketplace)  <-- [List of countries permitted](https://help.coindirect.com/hc/en-us/articles/115002614893-From-which-countries-do-you-accept-registrations-)
