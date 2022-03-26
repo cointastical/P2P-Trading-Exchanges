@@ -65,6 +65,7 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [Ethfinex Trustless OTC](https://trustless.ethfinex.com/otc)
 - [Hubi](https://otc.Hubi.com)
 - [KuCoin OTC](https://www.kucoin.com/otc)
+- [Whales Heaven](https://www.whalesheaven.com) <-- Requires a browser extension
 - [LocalKSM](https://localksm.com) [Coming soon]
 
 **Aggregator/Search and Helper Sites**
