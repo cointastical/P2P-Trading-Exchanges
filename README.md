@@ -66,6 +66,7 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [Hubi](https://otc.Hubi.com)
 - [KuCoin OTC](https://www.kucoin.com/otc)
 - [Whales Heaven](https://www.whalesheaven.com) <-- Requires a browser extension
+- [Wakala](https://twitter.com/WakalaDAO) [Coming soon]
 - [LocalKSM](https://localksm.com) [Coming soon]
 
 **Aggregator/Search and Helper Sites**
