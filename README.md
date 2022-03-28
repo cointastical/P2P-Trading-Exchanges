@@ -1,5 +1,5 @@
-# P2P-Trading-Exchanges
-Person-to-Person bitcoin Trading Exchanges
+# P2P-Trading-Platforms
+Person-to-Person bitcoin Trading Platforms
 
 Following is a list of P2P trading exchanges (also referred to as P2P platforms) for trading Bitcoin.  Common payment methods include bank transfer, cash deposited in the seller's bank account, in-person cash (face-to-face) trades as well as payment networks such as Zelle, Alipay, even Cash App and PayPal, for example.
 
