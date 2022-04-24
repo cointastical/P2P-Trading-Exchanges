@@ -139,7 +139,7 @@ This list does not include exchanges not in English (e.g., [58Coin](https://c2c.
 
 - Online stores (e.g., [Bitsell X](https://bitsellx.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO KYC**, requires browser extension], [CoinCorner](https://coincorner.com) [[💳](https://en.wikipedia.org/wiki/Credit_card)] [**NO KYC** when £900 or less, not available in U.S.], [CEX.io](https://CEX.io.com), [Coinify](https://www.coinify.com), [Jubiter](https://app.jubiter.com/neworder/buy), [Bittylicious](https://bittylicious.com), [BitIreland](https://bitireland.ie), [Kuna.io Money](https://money.kuna.io), [LiteBit.eu](https://www.litebit.eu/en/buy), [Switchere](https://switchere.com), [Conio.com](https://conio.com) App, [CryptoVoucher.io](https://cryptovoucher.io), [BitQuick QuickBuy](https://www.bitquick.co/quick-buy) [**NO KYC** (i.e., when trx amount is under $400)], [Cash App](https://cash.app/bitcoin), [Strike](https://strike.me) and CoinMama)
 
-- [Instant exchanges](https://cointastical.github.io/KYC-Free-Instant-Exchanges) / Online-only Swap (i.e., for converting from one digital currency to another)
+- [Instant exchanges](https://cointastical.github.io/KYC-Free-Instant-Exchanges) and [Fixed Float](https://fixedfloat.com/) / Online-only Swap (i.e., for converting from one digital currency to another). VPN may be required in certain countries.
 
 - Precious metals brokers which buy your gold and/or silver in exchange for bitcoin (e.g., [Veldt Gold](https://veldtgold.com/sell-gold-for-bitcoin) [**NO KYC**]).
 
