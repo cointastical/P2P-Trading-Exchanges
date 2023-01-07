@@ -89,6 +89,7 @@ Also, there are a number of variants that don’t fit the P2P OTC exchanges cate
 - Bill/Invoice swap services (e.g., [SWAPIN](https://swapin.com) (formerly PiixPay))
 - Satoshi Square Trading Events / In-Person Trading (e.g., [Satoshi Square L.A.](https://spelunk.in/2021/09/21/september-satoshi-square/), and find a person to trade with at many [Bitcoin conferences](https://www.coindesk.com/events/) and [Bitcoin meetups](https://www.google.com/maps/d/viewer?mid=1rbqiHELgkGta0QLG4TB0toHEdJdOfCRK&ll=41.52428047956433%2C-52.979125950000025&z=3))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
+- Software to automate P2P Trading for dealers on the market that helps with auto-setting the fees to stay on top of the listing, etc. (e.g., [P2PTrader.Pro](https://p2ptrader.pro))
 
 **See Also**
 
