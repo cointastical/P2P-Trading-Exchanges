@@ -34,6 +34,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [BuyCoins](https://buycoins.africa/ads) [KYC]
 - [ScaleX](https://scalex.africa) [KYC] <-- Nigeria
 - [Busha](https://busha.co) [KYC] <-- Nigeria
+- [Koinwa](https://Koinwa.com) <-- Nigeria
 - [BitBargain.co.uk](https://BitBargain.co.uk) <-- U.K.
 - [VEX - Venezuela Exchange](https://vex.sunacrip.gob.ve) <-- Venezuela
 - [P2P Trading](https://p2ptrading.com.br) <-- Brazil
