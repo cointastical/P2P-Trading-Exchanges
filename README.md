@@ -97,7 +97,7 @@ Also, there are a number of variants that don’t fit the P2P OTC exchanges cate
 - [KYC-Free-Instant-Exchanges](https://cointastical.github.io/KYC-Free-Instant-Exchanges) <-- Superset of the listings in the "crypto-to-crypto" section above
 - [Physical Stores where you can Buy or Sell bitcoin](https://cointastical.github.io/Physical-Locations-Bitcoin)
 - [Exchanges with support for Lightning Network](https://cointastical.github.io/Exchanges-With-LN)
-- [List of crypto exchanges with P2P exchange of Bitcoin, Ethereum, USDT and other cryptocurrencies](https://cryptoage.com/en/2742-list-of-crypto-exchanges-with-p2p-exchange-of-bitcoin,-ethereum,-usdt-and-other-cryptocurrencies.html)
+- [List of crypto exchanges with P2P exchange of Bitcoin and cryptos](https://cryptoage.com/en/2742-list-of-crypto-exchanges-with-p2p-exchange-of-bitcoin,-ethereum,-usdt-and-other-cryptocurrencies.html)
 
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/P2P-Trading-Exchanges), or via [e-mail](mailto://cointastical@gmail.com).
 
