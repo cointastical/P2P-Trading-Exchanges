@@ -21,7 +21,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [LocalBitcoins](https://LocalBitcoins.com) [KYC] <-- No more in-person, cash trading
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Coindirect Marketplace](https://coindirect.com/marketplace)  <-- [List of countries permitted](https://help.coindirect.com/hc/en-us/articles/115002614893-From-which-countries-do-you-accept-registrations-)
-- [Huobi OTC](https://otc.huobi.co/en-us/trade/buy-btc/)
+- [Huobi P2P](https://www.huobi.com/en-us/fiat-crypto/trade/buy-btc-usd)
 - [Gate.io P2P](https://www.gate.io/c2c)
 - [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
 - [PexPay](https://www.pexpay.com) <-- Active CNY trading
