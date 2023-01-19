@@ -24,6 +24,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [Huobi P2P](https://www.huobi.com/en-us/fiat-crypto/trade/buy-btc-usd)
 - [Gate.io P2P](https://www.gate.io/c2c)
 - [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
+- [OKX P2P](https://www.okx.com/p2p-markets/usd/buy-btc)
 - [PexPay](https://www.pexpay.com) <-- Active CNY trading
 - [OTCBTC](https://otcbtc.com/sell_offers?currency=btc&fiat_currency=cny&payment_type=all)
 - [Vertex](https://vertex.market)
