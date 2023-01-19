@@ -52,7 +52,7 @@ Following is a list of P2P Trading Platforms (i.e. P2P exchanges) for trading Bi
 - [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)), between L-BTC and stablecoins (i.e., either USDT, or EurX)
 - [@Wallet P2P bot on Telegram](https://t.me/wallet)
 
-## **Altcoin-only P2P Trading exchanges** (Includes where Bitcoin may be the payment method, but it is not the trading currency)
+## Altcoin-only P2P Trading exchanges (Includes where Bitcoin may be the payment method, but it is not the trading currency)
 
 Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
 
@@ -70,18 +70,18 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [Wakala](https://twitter.com/WakalaDAO) [Coming soon]
 - [LocalKSM](https://localksm.com) [Coming soon]
 
-## **Aggregator/Search and Helper Sites**
+## Aggregator/Search and Helper Sites
 
 - Yadio [BTC Market](https://yadio.io/market.html) Filtered search across a half dozen P2P Platforms
 - [Monetory](https://monetory.io) Search P2P offers for the best rates
 - [ExchangeRates.Pro](https://ExchangeRates.pro) Real-time price comparison
 
-## **Tools**
+## Tools
 
 - [P2PTrader.pro](https://p2ptrader.pro/) P2P trading automation software for dealers. Support for Binance, LocalBitcoins, LocalCoinSwap, and Paxful.\
   (Caution: Third party software can have malware. Use at your own risk.)
 
-## **Note**: When using any of the above P2P Trading Platforms (which are essentially “matchmaking” services), please [trade with caution](https://www.cryptorecorder.com/2019/02/08/things-you-want-to-know-before-buying-bitcoins-from-a-p2p-marketplace) and **do your own due diligence**.
+## Note: When using any of the above P2P Trading Platforms (which are essentially “matchmaking” services), please [trade with caution](https://www.cryptorecorder.com/2019/02/08/things-you-want-to-know-before-buying-bitcoins-from-a-p2p-marketplace) and **do your own due diligence**.
 
 This list does not include exchanges not in English (e.g., [58Coin](https://c2c.58ex.com)), deserted or defunct marketplaces (e.g., OpenBazaar, BitzLato, LocalCryptos, BuyCrypto.Today, Cancoin, and [Rahakott](https://rahakott.io/s/market)), not-yet launched (e.g., [OTCBoss](https://gab.com/OTCBOSS)), ones that operate only through [dark markets](https://99bitcoins.com/accessing-dark-net-under-minutes-beginners-guide), or online-only [DEX/decentralized exchanges](https://www.cryptomorrow.com/2019/02/06/list-of-dex-crypto-exchanges) ([another list of DEXes](https://distribuyed.github.io/index)).
 
@@ -98,7 +98,7 @@ Also, there are a number of variants that don’t fit the P2P OTC exchanges cate
 - Satoshi Square Trading Events / In-Person Trading (e.g., [Satoshi Square L.A.](https://spelunk.in/2021/09/21/september-satoshi-square/), and find a person to trade with at many [Bitcoin conferences](https://www.coindesk.com/events/) and [Bitcoin meetups](https://www.google.com/maps/d/viewer?mid=1rbqiHELgkGta0QLG4TB0toHEdJdOfCRK&ll=41.52428047956433%2C-52.979125950000025&z=3))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
 
-## **See Also**
+## See Also
 
 - [KYC-Free-Instant-Exchanges](https://cointastical.github.io/KYC-Free-Instant-Exchanges) <-- Superset of the listings in the "crypto-to-crypto" section above
 - [Physical Stores where you can Buy or Sell bitcoin](https://cointastical.github.io/Physical-Locations-Bitcoin)
