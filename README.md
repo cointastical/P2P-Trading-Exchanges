@@ -7,7 +7,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [@robosatsOB](https://twitter.com/robosatsOB) OrderBook. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/main/docs/how-to-use.md) [Note: Trade chat is not saved. To protect yourself as buyer, use additional method to verify payment instructions before sending fiat payment.]
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Not available in the U.S. Supported payment methods include Lightning network ([⚡](https://lightningnetworkstores.com/wallets)) as well as Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) (BTC, Tether, CAD).
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
-- [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
+- [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor, No bech32 address support.
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - [BitValve](https://BitValve.com) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] <-- Guide
