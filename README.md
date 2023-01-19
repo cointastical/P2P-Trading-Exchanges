@@ -1,7 +1,7 @@
 # P2P-Trading-Platforms
 Person-to-Person bitcoin Trading Platforms
 
-Following is a list of P2P Trading Platforms (also referred to as P2P exchanges) for trading Bitcoin.  Common payment methods include bank transfer, cash deposited in the seller's bank account, in-person cash (face-to-face) trades as well as payment networks such as Zelle, Alipay, even Cash App and PayPal, for example.
+Following is a list of P2P Trading Platforms (i.e. P2P exchanges) for trading Bitcoin.  Common payment methods include bank transfer, cash deposited in the seller's bank account, in-person cash (face-to-face) trades as well as payment networks such as Zelle, Alipay, even Cash App and PayPal, for example. Some of these payment methods are more private than others. Typically, face-to-face, cash-by-mail, and US Postal Money Orders are among the most private methods available.
 
 - [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. L-BTC / Blockstream's [Liquid Network](https://blockstream.com/liquid/) ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [@robosatsOB](https://twitter.com/robosatsOB) OrderBook. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/main/docs/how-to-use.md) [Note: Trade chat is not saved. To protect yourself as buyer, use additional method to verify payment instructions before sending fiat payment.]
