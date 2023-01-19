@@ -50,6 +50,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
 - [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)), between L-BTC and stablecoins (i.e., either USDT, or EurX)
+- [@Wallet P2P trading on Telegram](https://t.me/wallet) <-- P2P trading through the @Wallet bot on Telegram
 
 **Altcoin-only P2P Trading exchanges** (Includes where Bitcoin may be the payment method, but it is not the trading currency)
 
