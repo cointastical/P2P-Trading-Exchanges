@@ -81,7 +81,9 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [P2PTrader.pro](https://p2ptrader.pro/) P2P trading automation software for dealers. Support for Binance, LocalBitcoins, LocalCoinSwap, and Paxful.\
   (Caution: Third party software can have malware. Use at your own risk.)
 
-## Note: When using any of the above P2P Trading Platforms (which are essentially “matchmaking” services), please [trade with caution](https://www.cryptorecorder.com/2019/02/08/things-you-want-to-know-before-buying-bitcoins-from-a-p2p-marketplace) and **do your own due diligence**.
+## Notes
+
+When using any of the above P2P Trading Platforms (which are essentially “matchmaking” services), please [trade with caution](https://www.cryptorecorder.com/2019/02/08/things-you-want-to-know-before-buying-bitcoins-from-a-p2p-marketplace) and **do your own due diligence**.
 
 This list does not include exchanges not in English (e.g., [58Coin](https://c2c.58ex.com)), deserted or defunct marketplaces (e.g., OpenBazaar, BitzLato, LocalCryptos, BuyCrypto.Today, Cancoin, and [Rahakott](https://rahakott.io/s/market)), not-yet launched (e.g., [OTCBoss](https://gab.com/OTCBOSS)), ones that operate only through [dark markets](https://99bitcoins.com/accessing-dark-net-under-minutes-beginners-guide), or online-only [DEX/decentralized exchanges](https://www.cryptomorrow.com/2019/02/06/list-of-dex-crypto-exchanges) ([another list of DEXes](https://distribuyed.github.io/index)).
 
