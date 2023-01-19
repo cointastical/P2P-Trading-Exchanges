@@ -28,7 +28,7 @@ Following is a list of P2P Trading Platforms (also referred to as P2P exchanges)
 - [Vertex](https://vertex.market)
 - [CGem/CryptoGem](https://cryptogem.global)
 - [CoinCola](https://www.coincola.com/buy-bitcoin)
-- [Vexel](https://vexl.it) <-- Czech Republic, and Slovakia
+- [Vexl](https://vexl.it) <-- Czech Republic, and Slovakia
 - [WazirX](https://wazirx.com/p2p) [KYC]
 - [Shiftal](https://www.shiftal.com) [KYC]
 - [Giottus](https://www.giottus.com/p2p) [KYC]
