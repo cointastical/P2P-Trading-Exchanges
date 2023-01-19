@@ -54,7 +54,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)), between L-BTC and stablecoins (i.e., either USDT, or EurX)
 - [@Wallet P2P bot on Telegram](https://t.me/wallet)
 
-## Altcoin-only P2P Trading exchanges (Includes where Bitcoin may be the payment method, but it is not the trading currency)
+## Altcoin-only P2P Trading exchanges
 
 Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
 
