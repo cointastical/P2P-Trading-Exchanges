@@ -89,7 +89,6 @@ When using any of the above P2P Trading Platforms (which are essentially “matc
 
 This list does not include exchanges not in English (e.g., [58Coin](https://c2c.58ex.com)), deserted or defunct marketplaces (e.g., OpenBazaar, BitzLato, LocalCryptos, BuyCrypto.Today, Cancoin, and [Rahakott](https://rahakott.io/s/market)), not-yet launched (e.g., [OTCBoss](https://gab.com/OTCBOSS)), ones that operate only through [dark markets](https://99bitcoins.com/accessing-dark-net-under-minutes-beginners-guide), or online-only [DEX/decentralized exchanges](https://www.cryptomorrow.com/2019/02/06/list-of-dex-crypto-exchanges) ([another list of DEXes](https://distribuyed.github.io/index)).
 
-
 ## Variants which do not fit the P2P OTC exchanges category
 
 - [Physical Stores where you can Buy or Sell bitcoin](https://cointastical.medium.com/physical-stores-where-you-can-buy-or-sell-bitcoin-9a28686fb625)
