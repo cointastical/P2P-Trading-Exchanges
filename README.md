@@ -68,7 +68,7 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [KuCoin OTC](https://www.kucoin.com/otc)
 - [Whales Heaven](https://www.whalesheaven.com) <-- Requires a browser extension
 - [LocalKSM](https://localksm.com) [Coming soon]
-
+- [PolkaBridge P2P](https://p2p.polkabridge.org/) (💵) [**NO KYC**]
 ## Aggregator/Search and Helper Sites
 
 - Yadio [BTC Market](https://yadio.io/market.html) Filtered search across a half dozen P2P Platforms
