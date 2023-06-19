@@ -18,7 +18,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required] <-- Not available in the [U.S. and 18 other countries](https://twitter.com/P2P_bitcoin/status/1506817413135970312)
-- [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC]
+- [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC] <-- Recently restarted after executive mgmt change
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Huobi P2P](https://www.huobi.com/en-us/fiat-crypto/trade/buy-btc-usd)
 - [Gate.io P2P](https://www.gate.io/c2c)
