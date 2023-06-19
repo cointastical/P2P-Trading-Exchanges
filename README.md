@@ -20,7 +20,6 @@ Some platforms require the use of a phone number which are typically tied to per
 - [CryptoLocally](https://cryptolocally.com) (💵) [KYC: Phone number required] <-- Not available in the [U.S. and 18 other countries](https://twitter.com/P2P_bitcoin/status/1506817413135970312)
 - [Paxful.com](https://Paxful.com) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [KYC]
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
-- [Coindirect Marketplace](https://coindirect.com/marketplace)  <-- [List of countries permitted](https://help.coindirect.com/hc/en-us/articles/115002614893-From-which-countries-do-you-accept-registrations-)
 - [Huobi P2P](https://www.huobi.com/en-us/fiat-crypto/trade/buy-btc-usd)
 - [Gate.io P2P](https://www.gate.io/c2c)
 - [OKEx P2P](https://www.okex.com/p2p-markets/inr/orderbook-btc)
