@@ -8,7 +8,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [Bisq](https://bisq.network) (💵) client [**NO KYC**] <-- Fully decentralized and non-custodial. Uses Tor, automatically. L-BTC / Blockstream's [Liquid Network](https://blockstream.com/liquid/) ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) is a supported payment method. [Guide](https://www.alzashop.com/p2p-exchange-bisq-how-to-buy-and-sell-bitcoin-guide)
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [@robosatsOB](https://twitter.com/robosatsOB) OrderBook. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/main/docs/how-to-use.md) [Note: Trade chat is not saved. To protect yourself as buyer, use additional method to verify payment instructions before sending fiat payment.]
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Supported payment methods include Lightning network ([⚡](https://lightningnetworkstores.com/wallets)) as well as Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) (BTC, Tether, CAD).
-- [LocalSats](https://LocalSats.org (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
+- [LocalSats](https://LocalSats.org) (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [AgoraDesk](https://agoradesk.com) (💵) [**NO KYC**] <-- "No Javascript" mode for use with Tor
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
