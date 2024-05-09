@@ -61,7 +61,6 @@ Note: An Altcoin-only exchange means bitcoin is not one of the trading currencie
 - [ByBit P2P](https://www.bybit.com/fiat/trade/otc) <-- USDT only, initially. Not available in the U.S.
 - [Benkiko](https://www.benkiko.io) <-- USDB only, initially
 - [Timbuktu](https://timbuktu.exchange) [**NO KYC** (for offer taker)]
-- [Dether](https://get.dether.io) (💵) [**NO KYC**]
 - [Ethfinex Trustless OTC](https://trustless.ethfinex.com/otc)
 - [Hubi](https://otc.Hubi.com)
 - [KuCoin OTC](https://www.kucoin.com/otc)
