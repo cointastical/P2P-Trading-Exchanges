@@ -17,7 +17,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
-- [Noones](https://noones.com) [KYC]
+- [Noones](https://noones.com) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [KYC]
 - [Paxful.com](https://Paxful.com) (💵, [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [KYC] <-- Recently restarted after executive mgmt change
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
 - [Huobi P2P](https://www.huobi.com/en-us/fiat-crypto/trade/buy-btc-usd)
