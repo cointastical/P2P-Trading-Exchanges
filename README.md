@@ -11,6 +11,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [LocalSats](https://LocalSats.org) (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
+- [SkipShift](https://skipshift.io) (💵) [**NO KYC**] <-- Fully decentralized. Non-custodial. Supports any currency and any payment venue.
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] <-- Guide
 - [AS.Exchange Spot Market](https://as.exchange/platform/spot/buy) [**NO KYC**] <-- [Announcement](https://www.newsbtc.com/press-releases/as-exchange-launches-peer-to-peer-trading-of-spot-bitcoin-with-zero-trading-and-network-fees)
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
