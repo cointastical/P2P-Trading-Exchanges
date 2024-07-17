@@ -9,10 +9,11 @@ Some platforms require the use of a phone number which are typically tied to per
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [**NO KYC**] <-- Non-custodial. Requires Tor browser. [@robosatsOB](https://twitter.com/robosatsOB) OrderBook. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/main/docs/how-to-use.md) [Note: Trade chat is not saved. To protect yourself as buyer, use additional method to verify payment instructions before sending fiat payment.]
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Supported payment methods include Lightning network ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) as well as Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) (BTC, Tether, CAD).
 - [LocalSats](https://LocalSats.org) (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
-- [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
+- [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Custodial
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] <-- Guide
 - [AS.Exchange Spot Market](https://as.exchange/platform/spot/buy) [**NO KYC**] <-- [Announcement](https://www.newsbtc.com/press-releases/as-exchange-launches-peer-to-peer-trading-of-spot-bitcoin-with-zero-trading-and-network-fees)
+- [P2PCoins](https://p2pcoins.io) (💵) [**NO KYC**] - Non-custodial
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
