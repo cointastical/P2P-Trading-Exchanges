@@ -10,6 +10,7 @@ Some platforms require the use of a phone number which are typically tied to per
 - [HodlHodl](https://HodlHodl.com) (💵) [**NO KYC**] <-- Non-custodial. Supported payment methods include Lightning network ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) as well as Liquid Network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)) (BTC, Tether, CAD).
 - [LocalSats](https://LocalSats.org) (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
+- [Peach Bitcoin](https://peachbitcoin.com) (💵) [**NO KYC**] <-- Non-custodial 
 - [P2PCoins.io](https://P2PCoins.io) (💵) [**NO KYC**] <-- Non-custodial
 - [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] <-- Guide
