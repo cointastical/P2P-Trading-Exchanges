@@ -58,6 +58,8 @@ Some platforms require the use of a phone number which are typically tied to per
 Note: An Altcoin-only exchange means bitcoin is not one of the trading currencies. There may be offers though where Bitcoin is one of the payment methods available though.
 
 - [Haveno DEX](https://github.com/haveno-dex/haveno/blob/master/README.md) client (💵) [**NO KYC**]← Fully decentralized and non-custodial. Uses Tor, automatically. [FAQ](https://github.com/haveno-dex/haveno/wiki/FAQ)
+  - [RetosSwap](https://retoswap.com) [**NO KYC**] <-- Haveno network instance. $2M+/month volume. 15% security deposits, 0.6% fees. Arbitrator: RoundTheRoses (24-48h response). Largest Haveno network.
+  - [DawnSwap](https://dawnswap.com) [**NO KYC**] <-- Haveno network instance. 5% security deposits, ~2% fees. 24/7 arbitration (faster than RetosSwap). Growing network, lower capital requirements.
 - [ByBit P2P](https://www.bybit.com/fiat/trade/otc) <-- USDT only, initially. Not available in the U.S.
 - [Benkiko](https://www.benkiko.io) <-- USDB only, initially
 - [Timbuktu](https://timbuktu.exchange) [**NO KYC** (for offer taker)]
